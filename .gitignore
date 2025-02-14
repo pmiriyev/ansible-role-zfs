@@ -13,3 +13,6 @@ __pycache__/
 .tox/
 .vagrant/
 pytestdebug.log
+
+./ansible
+./vscode
